@@ -3,6 +3,6 @@ function exceriseDog(dogName, dogBreed) {
   console.log(`Leash ${dogName} the ${dogBreed}`);
   console.log(`Walk to the park with ${dogName} the ${dogBreed}`);
   console.log(`Throw the frisbee for ${dogName} the ${dogBreed}`);
-  console.log(`Walk home with Byron the poodle`);
-  console.log(`Unleash Byron the poodle`);
+  console.log(`Walk home with ${dogName} the ${dogBreed}`);
+  console.log(`Unleash ${dogName} the ${dogBreed}`);
 }
