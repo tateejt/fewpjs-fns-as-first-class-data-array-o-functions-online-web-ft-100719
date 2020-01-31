@@ -8,7 +8,7 @@ function walkToPark(dogName, dogBreed) {
   console.log(`Wake ${dogName} the ${dogBreed}`);
 }
 function throwFrisbee(dogName, dogBreed) {
-  console.log(`Wake ${dogName} the ${dogBreed}`);
+ console.log("Throw the frisbee for Byron the poodle");
 }
 function walkHome(dogName, dogBreed) {
   console.log("Walk home with Byron the poodle");
