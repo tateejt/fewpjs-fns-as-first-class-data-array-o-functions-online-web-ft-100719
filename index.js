@@ -2,7 +2,7 @@ function wakeDog(dogName, dogBreed) {
   console.log(`Wake ${dogName} the ${dogBreed}`);
 }
 function leashDog(dogName, dogBreed) {
-  console.log(`Leash Byron the poodle`);
+  console.log(`Leash  the poodle`);
 }
 function walkToPark(dogName, dogBreed) {
   console.log(`Walk to the park with Byron the poodle`);
